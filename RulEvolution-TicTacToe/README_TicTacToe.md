@@ -31,4 +31,5 @@ This project implements the **RulEvolution** learning paradigm through a practic
 ## Author
 **Alia Rosario**
 
-Licensed under the MIT License.
+Licensed under the GNU General Public License v3.0 (GPL-3.0).
+
